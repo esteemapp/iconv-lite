@@ -1,5 +1,5 @@
 {
-    "name": "iconv-lite",
+    "name": "@esteemapp/iconv-lite",
     "description": "Convert character encodings in pure javascript.",
     "version": "0.4.24",
     "license": "MIT",
